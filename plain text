@@ -1,0 +1,9 @@
+cloud-security-iam-audit/
+│
+├── scripts/
+│   └── iam_audit_helper.py        # Python script to check user policies
+├── policies/
+│   └── secure_bucket_policy.json  # Example of a hardened S3 bucket policy
+├── reports/
+│   └── audit_findings.md          # Sample security assessment report
+└── README.md                      # Project documentation
