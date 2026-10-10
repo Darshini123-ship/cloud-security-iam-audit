@@ -1,0 +1,14 @@
+[
+    {
+        "username": "alice_admin",
+        "is_admin": true,
+        "mfa_active": false,
+        "access_key_created_date": "2025-01-15"
+    },
+    {
+        "username": "bob_developer",
+        "is_admin": false,
+        "mfa_active": true,
+        "access_key_created_date": "2026-09-01"
+    }
+]
